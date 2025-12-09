@@ -1,1 +1,2 @@
 line B
+line c
